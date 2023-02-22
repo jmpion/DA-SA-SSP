@@ -1,6 +1,10 @@
 # DA-SA-SSP
 Domain Adaptation for Sentiment Analysis using Self-Supervised Pre-training. (It explains the name of the repository DA-SA-SSP)
 
+- `sorted_data_acl.zip` and `domain_sentiment_data.tar.gz` are too big to be uploaded to the repository, so I provide access links here, for the moment: 
+  - https://drive.google.com/file/d/1fuOG-wkYx8N_d66v-1FrmcbA7wWgVcqe/view?usp=sharing
+  - https://drive.google.com/file/d/1OwDQQxvFY_2Pmae68zn4VsidgOvTRC5z/view?usp=sharing
+
 The `sorted_data_acl.zip` archive should be extracted before doing experiments.
 
 Requirements can be installed with the `requirements.txt` file.
